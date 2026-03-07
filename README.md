@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0189-rotate-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
