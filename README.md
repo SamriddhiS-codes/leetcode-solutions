@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0130-surrounded-regions](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0189-rotate-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -29,4 +30,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
