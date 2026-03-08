@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
