@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
