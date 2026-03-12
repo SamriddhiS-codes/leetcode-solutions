@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
