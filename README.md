@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
