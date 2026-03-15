@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0130-surrounded-regions](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
