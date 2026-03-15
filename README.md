@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0130-surrounded-regions](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/SamriddhiS-codes/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
